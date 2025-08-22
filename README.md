@@ -42,8 +42,8 @@
 ## Установка
 
 ```bash
-git clone <ВАШ_GIT_URL> musicgen-azuracast
-cd musicgen-azuracast
+git clone https://github.com/reinethernal/musicgen_uploader_api.git musicgen
+cd musicgen
 
 # 1) FFmpeg (если ещё не установлен)
 sudo apt-get update && sudo apt-get install -y ffmpeg
